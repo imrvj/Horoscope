@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Horoscope</string>
+    <string name="Horoscope_prompt">Choose a country</string>
+    <string name="Day">Choose Date</string>
+
+    <string-array name="Horoscope">
+
+        <item>Aries</item>
+        <item>Taurus</item>
+        <item>Gemini</item>
+        <item>Cancer</item>
+        <item>Leo</item>
+        <item>Virgo</item>
+        <item>Libra</item>
+        <item>Sagittarius</item>
+        <item>Capricorn</item>
+        <item>Aquarius</item>
+        <item>Pisces</item>
+    </string-array>
+
+    <string-array name="date">
+
+        <item> Today</item>
+
+    </string-array>
+
+</resources>
